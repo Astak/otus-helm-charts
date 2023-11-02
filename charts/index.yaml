@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  users-api:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-11-02T19:20:34.8425383+03:00"
+    description: A Helm chart for Kubernetes
+    digest: d14f171d0de2f34a6cd365b30ef9f5ac7f785a16cbe17790d37e938dfc270a2f
+    name: users-api
+    type: application
+    urls:
+    - https://github.com/Astak/otus-helm-charts.git/users-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-02T19:20:34.841982+03:00"
