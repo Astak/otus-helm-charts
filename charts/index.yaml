@@ -9,7 +9,7 @@ entries:
     name: users-api
     type: application
     urls:
-    - https://github.com/Astak/otus-helm-charts.git/users-api-0.2.0.tgz
+    - https://astak.github.io/otus-helm-charts/users-api-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
@@ -19,6 +19,6 @@ entries:
     name: users-api
     type: application
     urls:
-    - https://github.com/Astak/otus-helm-charts.git/users-api-0.1.0.tgz
+    - https://astak.github.io/otus-helm-charts/users-api-0.1.0.tgz
     version: 0.1.0
 generated: "2023-11-02T20:44:52.9750565+03:00"
