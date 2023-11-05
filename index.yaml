@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   users-api:
   - apiVersion: v2
+    appVersion: 0.2.1
+    created: "2023-11-05T19:20:35.6526262+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5827a7006d76ff20edc43af47bd188713d685fdf729b84e6f4c7963bc67a253b
+    name: users-api
+    type: application
+    urls:
+    - https://astak.github.io/otus-helm-charts/users-api-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-11-02T20:44:52.9801076+03:00"
+    created: "2023-11-05T19:20:35.6515751+03:00"
     description: A Helm chart for Kubernetes
     digest: 8f20e64b09bdb9f363dc4f70f0ac8af12a089793e21f1d2810b12f699b665bf1
     name: users-api
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-11-02T20:44:52.9795526+03:00"
+    created: "2023-11-05T19:20:35.6457464+03:00"
     description: A Helm chart for Kubernetes
     digest: d14f171d0de2f34a6cd365b30ef9f5ac7f785a16cbe17790d37e938dfc270a2f
     name: users-api
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://astak.github.io/otus-helm-charts/users-api-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-02T20:44:52.9750565+03:00"
+generated: "2023-11-05T19:20:35.6367142+03:00"
